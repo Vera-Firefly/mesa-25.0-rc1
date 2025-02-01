@@ -1,1 +1,2 @@
-# mesa-25.0-rc1
+# android-mesa-build
+Build Mesa Renderer For android device
